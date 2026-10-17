@@ -1,0 +1,6 @@
+source_id,display_name,kind,reference,scope,format,status
+sap-ddic,SAP DDIC,system,system-specific,tables fields domains data elements keys,ABAP export,planned
+sap-cds,SAP CDS,system,system-specific,CDS annotations associations dependencies,ADT or XCO,planned
+sap-api-hub,SAP Business Accelerator Hub,website,https://api.sap.com,API and CDS references,metadata,planned
+leanx,LeanX,website,https://leanx.eu/sap/table/search/,table field documentation,HTML,planned
+manual,Manual annotations,manual,local,functional mappings and reviews,JSONL,planned
