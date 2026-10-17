@@ -1,0 +1,14 @@
+# SAP Knowledge Engine: metadata exports and generated stores stay outside Git
+raw/
+normalized/
+curated/
+builds/
+reports/
+*.sqlite
+*.sqlite3
+*.db
+*.db-wal
+*.db-shm
+*.parquet
+*.xlsx
+.env
