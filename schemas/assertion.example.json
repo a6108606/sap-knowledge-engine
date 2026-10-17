@@ -1,0 +1,20 @@
+{
+  "subject": {
+    "sap_product": "S4HANA",
+    "edition": "on-premise",
+    "release": "example",
+    "object_type": "TABLE",
+    "technical_name": "ZDEMO_HEADER"
+  },
+  "predicate": "HAS_FIELD",
+  "value_or_target": {
+    "field_name": "DEMO_ID",
+    "data_type": "CHAR",
+    "length": 10
+  },
+  "source_id": "manual",
+  "run_id": "sample-001",
+  "source_record_key": "ZDEMO_HEADER/DEMO_ID",
+  "evidence_pointer": "example.json",
+  "verification_status": "candidate"
+}
